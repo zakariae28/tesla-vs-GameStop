@@ -20,7 +20,7 @@ Ce projet, réalisé dans le cadre du cours "Python for Data Science, AI & Devel
 
 ## Structure du Projet
 
-- `nom_du_script.py`: Script principal contenant le code du projet.
+- `projet.py`: Script principal contenant le code du projet.
 - `tesla_data.csv`: Fichier CSV contenant les données historiques des cours d'action de Tesla.
 - `gme_data.csv`: Fichier CSV contenant les données historiques des cours d'action de GameStop.
 - `tesla_revenue.csv`: Fichier CSV contenant les données de revenus de Tesla.
@@ -29,7 +29,7 @@ Ce projet, réalisé dans le cadre du cours "Python for Data Science, AI & Devel
 
 ## Auteur
 
-[ZAKARIAE YAHYA]
+ZAKARIAE YAHYA
 
 ## Licence
 Ce projet est sous licence MIT.
