@@ -1,1 +1,21 @@
+# Ressources
 
+## Données Financières
+- [Yahoo Finance](https://finance.yahoo.com/) : Source principale pour les données historiques des cours d'action.
+- [Financial Times](https://www.ft.com/markets) : Ressource pour les actualités financières et analyses.
+
+## Bibliothèques Python
+- [yfinance](https://pypi.org/project/yfinance/) : Bibliothèque pour obtenir des données financières de Yahoo Finance.
+- [pandas](https://pandas.pydata.org/) : Bibliothèque pour la manipulation et l'analyse des données.
+- [plotly](https://plotly.com/) : Bibliothèque pour la création de graphiques interactifs.
+- [matplotlib](https://matplotlib.org/) : Bibliothèque pour la création de graphiques statiques.
+
+## Cours en Ligne
+- [Python for Data Science, AI & Development sur Coursera](lien_vers_le_cours) : Cours utilisé pour ce projet.
+
+## Outils Web Scraping
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) : Bibliothèque Python pour le web scraping.
+- [Requests](https://docs.python-requests.org/en/master/) : Bibliothèque Python pour effectuer des requêtes HTTP.
+
+## Licence
+- [Licence MIT](https://opensource.org/licenses/MIT) : Licence utilisée pour ce projet.
