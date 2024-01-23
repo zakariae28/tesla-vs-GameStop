@@ -26,10 +26,10 @@ Ce projet, réalisé dans le cadre du cours "Python for Data Science, AI & Devel
 - `tesla_revenue.csv`: Fichier CSV contenant les données de revenus de Tesla.
 - `gme_revenue.csv`: Fichier CSV contenant les données de revenus de GameStop.
 
+
 ## Auteur
 
 [ZAKARIAE YAHYA]
 
 ## Licence
-
-Ce projet est sous licence [insérez_la_licence].
+Ce projet est sous licence MIT.
