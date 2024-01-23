@@ -38,4 +38,4 @@ Ce projet, réalisé dans le cadre du cours "Python for Data Science, AI & Devel
 ZAKARIAE YAHYA
 
 ## Licence
-Ce projet est sous licence MIT.
+Copyright (c) 2024 YAHYA ZAKARIAE
