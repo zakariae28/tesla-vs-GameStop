@@ -26,7 +26,8 @@ Ce projet, réalisé dans le cadre du cours "Python for Data Science, AI & Devel
   - `historique_tesla.png`: Graphique montrant l'historique des cours d'action de Tesla.
   - ![image](https://github.com/zakariae28/Poject1/assets/155691167/93d5425b-eff6-460f-a2b0-39882ab581bd)
   - `historique_gme.png`: Graphique montrant l'historique des cours d'action de GameStop.
-  - ![image](https://github.com/zakariae28/Poject1/assets/155691167/85afc7bc-74ba-43af-b760-9c01a6af30df)
+  - ![image](https://github.com/zakariae28/Poject1/assets/155691167/44938cbd-1fa9-41c4-a67e-825c129ffd1c)
+
   - `revenus_tesla.png`: Graphique montrant les données de revenus de Tesla.
 ![image](https://github.com/zakariae28/Poject1/assets/155691167/dfdaf64d-1ab1-473b-b076-7c62f658787c)
   - `revenus_gme.png`: Graphique montrant les données de revenus de GameStop.
