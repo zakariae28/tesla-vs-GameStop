@@ -1,6 +1,6 @@
 # Projet d'Exploration et d'Analyse de Données Financières
 
-Ce projet, réalisé dans le cadre du cours "Python for Data Science, AI & Development" sur Coursera, se concentre sur l'exploration et l'analyse des données financières de deux entreprises emblématiques : Tesla (TSLA) et GameStop (GME). L'objectif principal est de mettre en pratique les concepts enseignés dans le cours en utilisant des bibliothèques Python telles que yfinance, pandas, requests, et BeautifulSoup.
+Ce projet, réalisé dans le cadre du cours "Python Project for Data Science" sur Coursera, se concentre sur l'exploration et l'analyse des données financières de deux entreprises emblématiques : Tesla (TSLA) et GameStop (GME). L'objectif principal est de mettre en pratique les concepts enseignés dans le cours en utilisant des bibliothèques Python telles que yfinance, pandas, requests, et BeautifulSoup.
 
 ## Objectifs
 
